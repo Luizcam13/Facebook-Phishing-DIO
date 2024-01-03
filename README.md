@@ -15,22 +15,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Método alternativo
-
-- Acesso root: ``` sudo su ```
-- Baixando httrack: ```apt install httrack```
-- Clonando a página: ```httrack https://www.facebook.com -O /home/user/directory/facebook ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Cloner Import ```
-- ```Press Enter```
-- Passando o caminho: ``` /home/user/directory/facebook/m.facebook.com/```
-- Site clonado: ```m.facebook.com```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- Acessar utilizando ```ip.do.host:porta_host```
-
+![image](https://github.com/Luizcam13/Facebook-Phishing-DIO/assets/138375474/31038965-f529-4f50-827f-dc04d25e725c)
 
 
 
